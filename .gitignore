@@ -9,6 +9,10 @@
 # RStudio files
 .Rproj.user/
 
+# Raw Data Location
+/Raw_Data
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+.Rproj.user
